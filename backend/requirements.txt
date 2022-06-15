@@ -1,0 +1,10 @@
+Django~=4.0.5
+djangorestframework~=3.13.1
+aiohttp~=3.8.1
+aiodns~=3.0.0
+beautifulsoup4~=4.11.1
+markdown2~=2.4.3
+bbcode~=1.1.0
+aiosqlite~=0.17.0
+aiohttp-client-cache~=0.7.0
+CurrencyConverter~=0.16.12

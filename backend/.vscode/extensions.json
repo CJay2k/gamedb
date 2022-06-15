@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "donjayamanne.python-extension-pack",
+        "magicstack.magicpython",
+        "ms-python.vscode-pylance",
+        "sourcery.sourcery"
+    ]
+}
